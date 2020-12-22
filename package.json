@@ -1,0 +1,26 @@
+{
+  "name": "p5-npm",
+  "version": "1.0.0",
+  "description": "p5.js w/ node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "console.log('test')"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ShawKai91/p5.js-template.git"
+  },
+  "keywords": [
+    "p5.js",
+    "node.js"
+  ],
+  "author": "ShawKai",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ShawKai91/p5.js-template/issues"
+  },
+  "homepage": "https://github.com/ShawKai91/p5.js-template#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
