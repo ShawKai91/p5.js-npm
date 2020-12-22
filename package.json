@@ -4,7 +4,8 @@
   "description": "p5.js w/ node.js",
   "main": "index.js",
   "scripts": {
-    "test": "console.log('test')"
+    "test": "console.log('test')",
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
