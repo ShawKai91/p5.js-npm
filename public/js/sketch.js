@@ -1,5 +1,6 @@
 function setup() {
-  createCanvas(400, 400);
+  let mycanvas = createCanvas(400, 400);
+  mycanvas.parent('canvas');
 }
 
 function draw() {
